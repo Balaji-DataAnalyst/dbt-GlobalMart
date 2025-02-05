@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: globalmart
+    description: a copy of snow flake database
+    database: raw
+    schema: globalmart
+    tables:
+      - name: customers
+      - name: orders
+      - name: products
+   
+  
+      
+
+
